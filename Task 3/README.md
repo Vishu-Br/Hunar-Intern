@@ -13,7 +13,7 @@ A Netflix clone is a video streaming app that offers a similar user experience a
 :tv: If the video is sent from the API it'll be render!<br>
 
 <img src="assests/Netflix Details.png">
-
+<img src="login Page/img/presentaion.gif">
 ## Topics :
 
 :movie_camera: 1. Using an TMDB API in JavaScript <br>
